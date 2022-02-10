@@ -1,4 +1,4 @@
 my favourite social medias
-*Facebook
-*instagram
-*whatsapp
+ * Facebook
+ * instagram
+ * whatsapp
